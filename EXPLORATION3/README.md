@@ -1,5 +1,5 @@
 AIFFEL Campus Online Code Peer Review Templete
-Coder : MyungJun Lee
+Coder : JeongHun Lim
 Reviewer :
 루브릭
 자기만의 카메라앱 기능 구현을 완수하였다.
