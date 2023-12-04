@@ -1,0 +1,25 @@
+loading file https://huggingface.co/snunlp/KR-Medium/resolve/main/vocab.txt from cache at /aiffel/.cache/huggingface/transformers/684bf3c7b627dd20c767dc3bcb84415bae415079be5e7d168257420bd86242bd.8523eb9d4fbd99dd585bcaeb569c479f444a77e61d5a2c62cef70ecce25fb710
+loading file https://huggingface.co/snunlp/KR-Medium/resolve/main/added_tokens.json from cache at None
+loading file https://huggingface.co/snunlp/KR-Medium/resolve/main/special_tokens_map.json from cache at None
+loading file https://huggingface.co/snunlp/KR-Medium/resolve/main/tokenizer_config.json from cache at /aiffel/.cache/huggingface/transformers/579396850f2227ca24056b4997236b0d86db8e475a99d6e6a5e6b5fb3e203fe9.a21d5897a986b8d1fed966dd1c99dda877a45f1904b91680ccb7cccb9c41a95b
+loading file https://huggingface.co/snunlp/KR-Medium/resolve/main/tokenizer.json from cache at None
+loading configuration file https://huggingface.co/snunlp/KR-Medium/resolve/main/config.json from cache at /aiffel/.cache/huggingface/transformers/3c18f49874fa1a436f0d0a03444dcb86bfa0d2357659429206b32d1b2d21659e.3f16f354913ab4503fe42f92bbb3a3bb63bbbecf608475fd26de053e4d4fcb2f
+Model config BertConfig {
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.11.3",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 20000

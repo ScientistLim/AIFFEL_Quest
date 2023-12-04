@@ -1,0 +1,67 @@
+{
+    "os": "Linux-5.15.107+-x86_64-with-glibc2.31",
+    "python": "3.9.7",
+    "heartbeatAt": "2023-11-20T09:12:08.985763",
+    "startedAt": "2023-11-20T09:12:08.350092",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "aiffel/workspace/AIFFEL_Quest/DLthon/2. DKTC (Dataset of Korean Threatening Conversations).ipynb",
+    "codePathLocal": null,
+    "root": "/aiffel/aiffel/workspace/AIFFEL_Quest",
+    "git": {
+        "remote": "https://github.com/ScientistLim/AIFFEL_Quest.git",
+        "commit": "ef6c58a7106f7cbfd30ca69fa7a00f883e1cb369"
+    },
+    "email": null,
+    "host": "whjv6y92k99abd4phaydojrbb-5b4cbc544b-d52nn",
+    "username": "root",
+    "executable": "/opt/conda/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2199.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 121.81595230102539,
+            "used": 70.92367553710938
+        }
+    },
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla T4",
+            "memory_total": 15843721216
+        }
+    ],
+    "memory": {
+        "total": 17.576374053955078
+    }
+}
