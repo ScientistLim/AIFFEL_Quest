@@ -1,9 +1,17 @@
 # AIFFEL_Quest
-The process of archiving quests performed during the iPel process
+The process of archiving quests performed during the AIFFEL process
 
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 임정훈
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 리뷰어 : 김정현
+
+## 요구사항(평가문항 상세기준)
+한글 코퍼스를 가공하여 BERT pretrain용 데이터셋을 잘 생성하였다.
+[ ] MLM, NSP task의 특징이 잘 반영된 pretrain용 데이터셋 생성과정이 체계적으로 진행되었다.
+구현한 BERT 모델의 학습이 안정적으로 진행됨을 확인하였다.
+[ ] 학습진행 과정 중에 MLM, NSP loss의 안정적인 감소가 확인되었다.
+1M짜리 mini BERT 모델의 제작과 학습이 정상적으로 진행되었다.
+[ ] 학습된 모델 및 학습과정의 시각화 내역이 제출되었다.
 
 
 # PRT(Peer Review Template)
@@ -40,8 +48,5 @@ The process of archiving quests performed during the iPel process
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 
 
-# 참고 링크 및 코드 개선
-```
-# 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
-# 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
-```
+# 총평
+아직 프로젝트가 완료되지 않았습니다.
